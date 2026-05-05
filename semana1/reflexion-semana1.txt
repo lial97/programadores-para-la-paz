@@ -1,7 +1,0 @@
-Pregunta 4 — Reflexión de la semana
-
-¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
-
-Considero que son herramienta de trabajo que permiten verificar la que un fuente confiable y tener un mayo control del la información. el uso responsable de internet básicamente es saber todo lo riegos que se corren al navegar por internet y que es un mar lleno de información pero no todo es verdadero. y las herramienta colaborativas como git permite ver quien hiso cada cosa y así todos son auditores y todo puede ver si al información que se sube es verdadera creando un transparencia.
-
-La responsabilidad informativa nos da la materia prima (la verdad), Git nos da el método de organización (orden y transparencia) y la participación ciudadana es el propósito final (el impacto en la comunidad). Juntos, permiten que el trabajo técnico y social no sea un caos de opiniones, sino un progreso documentado y democrático.

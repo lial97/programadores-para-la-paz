@@ -1,0 +1,20 @@
+Algoritmo: Verificación y Difusión de Información Confiable
+
+Entrada: Una noticia, anuncio o publicación detectada en internet.
+Objetivo: Validar la veracidad antes de compartir para asegurar un uso responsable de la red.
+
+
+1. Detección e Identificación. Observar el anuncio o noticia y registrar la fuente original. ¿Es un medio de comunicación reconocido, una entidad gubernamental o un perfil de usuario desconocido?
+
+2. Análisis de Formato y Estilo. Evaluar si el titular es excesivamente alarmista (clickbait), si tiene errores ortográficos o si la URL del sitio web parece sospechosa o alterada.
+
+3. Investigación Multifuente. Realizar una búsqueda activa en motores de búsqueda utilizando palabras clave de la noticia. Si la información es real, debería estar reportada en al menos tres medios de comunicación formales o agencias de noticias distintas.
+
+4. Validación de Evidencia Interna Leer la noticia completa e identificar las fuentes citadas dentro del texto. ¿Menciona estudios médicos, declaraciones oficiales o documentos legales verificables?
+
+5. Verificación de Fecha y Contexto: Comprobar la fecha de publicación. Muchas noticias falsas son información real de hace años que se comparte como si fuera actual para desinformar.
+
+6. Evaluación de Sesgos Antes de decidir, preguntarse: "¿Esta información apela solo a mis emociones o presenta datos objetivos?". El uso responsable implica no compartir algo solo porque refuerza nuestra opinión personal.
+
+7. Acción de Salida  SI la información superó todos los pasos anteriores: Compartir citando la fuente original.
+		     NO se pudo verificar o es dudosa Interrumpir la cadena de difusión 

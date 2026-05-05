@@ -1,0 +1,30 @@
+lial97@Nv1514:~$ ls
+Descargas   Escritorio  MacTahoe-gtk-theme   Música      Público  Vídeos
+Documentos  Imágenes    MacTahoe-icon-theme  Plantillas  snap
+lial97@Nv1514:~$ cd Documentos
+lial97@Nv1514:~/Documentos$ ls
+ PROGRAMADORES-PARA-LA-PAZ   PYTHON  'trabajo administracion.odp'   UNIVERDIAD
+lial97@Nv1514:~/Documentos$ cd PROGRAMADORES-PARA-LA-PAZ
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ$ LS
+LS: no se encontró la orden
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ$ ls
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ$ ls
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ$ mkdir semana-2
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ$ touch preguntas-semana2.txt
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ$ nano preguntas-semana2.txt
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ$ nano reflexion-semana2.txt
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ$ pwd
+/home/lial97/Documentos/PROGRAMADORES-PARA-LA-PAZ
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ$ mv preguntas-semana2.txt reflexion-semana2.txt /home/lial97/Documentos/PROGRAMADORES-PARA-LA-PAZ/semana2
+mv: target '/home/lial97/Documentos/PROGRAMADORES-PARA-LA-PAZ/semana2': No existe el archivo o el directorio
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ$ mv preguntas-semana2.txt reflexion-semana2.txt /home/lial97/Documentos/PROGRAMADORES-PARA-LA-PAZ/semana-2
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ$ cd semana-2
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ/semana-2$ ls
+preguntas-semana2.txt  reflexion-semana2.txt
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ/semana-2$ nano comandos-terminal.txt
+lial97@Nv1514:~/Documentos/PROGRAMADORES-PARA-LA-PAZ/semana-2$ 
+
+
+estos han sido los comando que he usado para hacer la actividad personalmente prefiero el
+"nano" para crear y editar el fichero inmediatamente, tuve que usar en "mv" porque el
+directorio "semana-2" Lo cree pero no cree los ficheros .txt dentro de la carpeta. 

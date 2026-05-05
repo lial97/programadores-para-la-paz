@@ -1,0 +1,26 @@
+¿Qué es Git?
+
+B.    Un sistema de control de versiones para registrar cambios en proyectos
+
+¿Cuál es la función principal de un repositorio?
+
+B.    Registrar y organizar los archivos y cambios de un proyecto
+
+¿Qué hace el comando git add .?
+
+B.    Agrega archivos al área de preparación para registrar cambios
+
+Una nota: el comando git add . agrega todos los archivos dentro de ese directorio,
+ejemplo digamos que tienes un directorio que tiene muchos archivos y usas ese comando
+todo los directorios y ficheros sera agregados. pero si usas el git add "nombre del fichero
+mas su .extencion" solo agregara ese fichero en concreto tambien con directorios git add "nombre del directorio"/. cuando tiene un proyecto organizado si usas el git add . no hay problemas
+pero si no si tiene el proyecto o el archivo en un carpeta donde hay cosas que no tienen
+nada que ves puede subirlas ejemplo puedes terminar las fotos de tus vaciones en un repositoios
+publico en git hud.
+
+¿Qué hace el comando git commit?
+
+A.    Guarda un registro de cambios realizados en el proyecto
+
+
+

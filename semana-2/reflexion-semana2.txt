@@ -1,0 +1,22 @@
+ ¿Por qué es importante para un desarrollador saber usar la terminal 
+para navegar y organizar archivos dentro de un proyecto? 
+
+el manejo de la terminal por parte de un desarrollador de software o persona que se 
+dedique a la informatica es que el amplio mundo de herramientas, un control mas alto
+del sistema operativo y sus funciones. aparte del el poder controlar la computadora a un
+mayor nivel tambien herramiendo como git que estab basadas en bash su uso principalmente
+es desde una terminal. no es como usar google drive y arrastra a tu repositorio en 
+githud. en palabras mas simples no esta pensada estas herramiendas para usuarios comunes
+estan pensadas para desarrolladores o alguien que tenga conocimento en una terminal.
+
+otro punto muy importante es poder organizar el proyectos saber cuales son los directorios
+ficheros. saber donde esta en la ruta como por ejemplo el comando pwd que te muesta
+la ruta donde estan tus directorios y ficheros. 
+
+tambien como menciones su uso permite el manejo de herramientas colaborarivas como githud
+permitiendo el trabajo en remoto. tambien la mayotira de las los proyectos de open source
+estan siendo desarrollado usando estas herramientas
+
+En conclusión, un buen programador debe tener en su conjunto de habilidades el uso
+ de la terminal, ya que es esencial para participar en trabajos colaborativos y gestionar
+ proyectos de manera eficiente.

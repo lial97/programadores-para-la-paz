@@ -1,0 +1,24 @@
+¿Por qué es importante que las comunidades o iniciativas ciudadanas puedan construir
+ herramientas tecnológicas propias utilizando tecnologías abiertas como Node.js?
+
+Es importante que las comunidades o iniciativas ciudadanas puedan construir herramientas tecnológicas propias
+utilizando tecnologías abiertas como Node.js, esto les permite crear soluciones adaptadas a sus necesidades sin depender
+completamente de grandes empresas o programas costosos. Las tecnologías abiertas facilitan el acceso al conocimiento, 
+la colaboración y el aprendizaje entre las personas de la comunidad.
+
+Además, herramientas como Node.js permiten desarrollar aplicaciones de manera más rápida y flexible, lo que ayuda a
+fortalecer proyectos sociales, educativos o comunitarios. Por ejemplo, una comunidad podría crear una plataforma para informar
+sobre actividades locales, reportar problemas del barrio o mejorar la comunicación entre ciudadanos.
+
+También considero que el uso de tecnologías abiertas promueve la participación y la innovación, ya que cualquier persona
+con interés puede aprender, modificar y mejorar las herramientas creadas. Esto fortalece la autonomía digital y contribuye a
+que más comunidades tengan acceso a soluciones tecnológicas inclusivas y sostenibles.
+
+Otra cosa que me gustaria aportar es que las tecnologias de codigo abierto son las que han sido contruidas con 
+mucho amor por parte de su creador o la pesona que ha aportado algo a ese proyecto normalmente programas enteros que son
+parte fundamental de muchas empresas fueron hecas por alguien que probablemente no buscaba ganar dinero sino 
+crear un solucion a un problema. claramente la filosofia de OpenSource son las que considero que han pasado mas alla
+de lo que sus creadores imaginaron, tecnologias de empresas mueren y se pierden en el cementio de proyectos fallidos
+pero en tecnoligas de cogido abierto puede que no sea popular la app que aguien creo pero alguien mas la vio la agrego a
+su proyecto y permiendo de alguan forma que no sea un desperdicio mas, donde su mision no era se popular sino 
+ser parte de un proyecto mas grande. 	 

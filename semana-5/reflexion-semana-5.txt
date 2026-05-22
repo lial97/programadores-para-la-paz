@@ -1,0 +1,14 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+
+En la actualidad, muchas comunidades enfrentan un problema común: la información importante se pierde en grupos de mensajería, 
+las alertas no llegan a todos por igual y los reportes ciudadanos quedan sin seguimiento. Frente a este panorama, las 
+interfaces de programación de aplicaciones, conocidas como APIs, emergen como una herramienta capaz de transformar la 
+comunicación comunitaria en un sistema estructurado, accesible y trazable. Una API actúa como un canal ordenado donde cualquier 
+persona, aplicación o dispositivo puede enviar y consultar información siguiendo las mismas reglas, sin importar desde qué 
+plataforma lo haga.
+
+las APIs no son únicamente herramientas para desarrolladores o empresas tecnológicas; son infraestructura 
+de organización social. Su capacidad para centralizar información, garantizar acceso desde múltiples plataformas y 
+mantener un registro transparente las convierte en un recurso valioso para comunidades que buscan comunicarse de manera 
+más organizada y efectiva. El reto no es solo técnico, sino cultural: lograr que las comunidades adopten estas soluciones 
+y que sean diseñadas pensando en sus necesidades reales.

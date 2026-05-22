@@ -1,0 +1,23 @@
+ curl -X POST http://localhost:3000/reporte \
+  -H "Content-Type: application/json" \
+  -d '{"mensaje": "Hola desde la terminal"}'
+{"estado":"Reporte recibido","mensaje":"Hola desde la terminal"}%    
+
+PREGUNTA 8 — RUTA POST /reporte
+
+¿Qué hace esta ruta?
+
+La ruta POST /reporte recibe datos enviados por el cliente en el cuerpo de la petición (body). Específicamente, extrae el 
+campo "mensaje" que llega en formato JSON y responde con un objeto que confirma la recepción, devolviendo el estado 
+"Reporte recibido" junto con el mensaje original. A diferencia de las rutas GET, esta ruta no se puede probar escribiendo 
+la URL en el navegador, porque necesita que se le envíen datos. Para probarla se usa una herramienta como Postman, Thunder 
+Client, o desde código JavaScript con fetch.
+
+¿Para qué podría servir en una aplicación comunitaria?
+
+Esta ruta es la base de cualquier sistema donde los ciudadanos necesiten enviar información al servidor. En una aplicación 
+comunitaria podría usarse para que los vecinos reporten problemas del barrio como huecos en la vía, fallas en el alumbrado 
+o acumulación de basuras. También serviría para recibir alertas de emergencia como inundaciones o situaciones de 
+seguridad, permitiendo que el servidor las registre, las organice y las distribuya a quienes corresponda. En lugar de que 
+esa información se pierda en un grupo de WhatsApp, la ruta POST garantiza que cada reporte quede guardado con sus datos 
+completos y pueda ser consultado o atendido posteriormente.

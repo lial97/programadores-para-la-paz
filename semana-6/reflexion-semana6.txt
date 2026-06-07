@@ -1,0 +1,12 @@
+¿Por qué es importante que las plataformas 
+tecnológicas puedan recibir reportes o información 
+enviada por los ciudadanos de forma estructurada?
+
+La recepción de información de forma estructurada es uno de los pilares más importantes del software moderno. 
+Si los ciudadanos enviaran reportes escribiendo un correo electrónico libre o un mensaje de texto plano, para una plataforma tecnológica sería extremadamente difícil procesarlo.
+
+para las computadoras nuestro lenguajes es igual de confuso que para nosotros el codigo binario por lo cual la 
+mejor manera de lidiar con ese problema es espesificar que informacion contiene o debe contener cada campo ejemplo 
+una variable llamada "nombre" se le asigna un valor "jose" ya el sistema puede menejar eso datos aunque no entinede directamente su significado puede organizador, procesarlos porque ya sabe que lo que tenga "nombre" lo mostrara en un algun lugar que se le espesifique 
+
+Los datos estructurados se pueden almacenar directamente en bases de datos. Esto permite a los administradores de la plataforma crear gráficos, paneles de control. Una plataforma que recibe datos estructurados puede procesar 10 reportes o 100,000 reportes al mismo tiempo sin saturarse, ya que las computadoras validan y organizan la información de manera inmediata. Esto permite que las aplicaciones comunitarias o gubernamentales funcionen de manera eficiente incluso en ciudades con millones de habitantes.

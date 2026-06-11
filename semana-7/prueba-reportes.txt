@@ -1,0 +1,7 @@
+Al consultar la ruta GET /reportes, el servidor devuelve todos los reportes almacenados en el array reportes.
+
+Cada vez que se registra un reporte mediante la ruta POST /reportes, este se guarda temporalmente en memoria y aparece en 
+la respuesta de GET /reportes.
+
+Si el servidor se reinicia, los datos almacenados se pierden porque no se están guardando en una base de datos, sino 
+únicamente en memoria.

@@ -1,2 +1,21 @@
-link-repositorio.txt 
-config/local.env 
+# Dependencias de Node.js
+node_modules/
+
+# Variables de entorno
+.env
+.env.*
+config/local.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# VS Code
+.vscode/
+
+# Archivos temporales
+tmp/
+temp/
+
+# Archivo local que no quieres subir
+link-repositorio.txt

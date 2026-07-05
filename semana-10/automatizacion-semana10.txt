@@ -1,0 +1,27 @@
+Flujo de Automatización con n8n y Telegram
+
+1. ¿Qué evento activa el flujo?
+El flujo es activado por un nodo de tipo "Webhook" o "Database Trigger" (por ejemplo, MariaDB/PostgreSQL Node) en n8n. El evento exacto es la inserción de un nuevo registro en la tabla de denuncias (`nuevo_reporte_registrado`). Cuando un ciudadano envía una denuncia, el sistema realiza un POST HTTP al webhook de n8n con los datos del reporte o n8n detecta el nuevo registro de manera automática.
+
+2. ¿Qué mensaje se enviaría a Telegram?
+Se enviará un mensaje estructurado y minimalista utilizando el nodo de "Telegram" en n8n conectado al Bot API de la veeduría. El formato del mensaje será el siguiente:
+
+"⚠️ ¡Nueva Alerta de Veeduría Ciudadana!
+--------------------------------------------------
+ID del Reporte: #{{ $json.id_reporte }}
+Categoría: {{ $json.categoria }}
+Comuna/Zona: {{ $json.comuna }}
+Fecha/Hora: {{ $json.fecha_creacion }}
+Evidencia: [Ver Foto Adjunta]
+
+Descripción breve: {{ $json.descripcion_corta }}
+--------------------------------------------------
+🔗 Enlace de gestión: https://veeduria-interna.org/dashboard/reportes/{{ $json.id_reporte }}
+Acción requerida: Por favor, ingresar al sistema para validar y clasificar el caso."
+
+3. ¿Qué información no debería enviarse por seguridad y privacidad (Datos Sensibles)?
+De acuerdo con las políticas de privacidad, protección de datos (como la Ley 1581 de 2012 en Colombia) y seguridad informática, BAJO NINGUNA CIRCUNSTANCIA debe enviarse la siguiente información a través del canal de Telegram:
+- Datos de identificación personal (PII) del denunciante: Nombres completos, apellidos, número de cédula de ciudadanía o extranjería, número de teléfono, correo electrónico personal o dirección residencial exacta (a menos que sea el lugar público de la incidencia).
+- Credenciales de acceso: Claves, tokens de autenticación o hashes de contraseñas de los usuarios o del sistema.
+- Información confidencial de la investigación: Nombres directos de presuntos implicados bajo sospecha antes de ser validados por la comisión de control (para evitar difamación o filtraciones que entorpezcan el proceso legal).
+- Datos sensibles adicionales: Opiniones políticas, afiliaciones sindicales o cualquier dato biométrico del ciudadano. Telegram es una plataforma de terceros y los canales o grupos de trabajo pueden ser comprometidos; la notificación debe ser puramente informativa y operacional, redirigiendo siempre al sistema seguro institucional mediante HTTPS para ver los detalles sensibles.

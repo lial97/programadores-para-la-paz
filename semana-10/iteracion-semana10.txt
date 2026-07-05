@@ -1,0 +1,16 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+Las dos tareas que se realizarían en primer lugar son:
+- Tarea 1: Como ciudadano quiero registrar una denuncia ciudadana con fotos y ubicación para dejar evidencia clara del caso de corrupción o mal estado de la infraestructura.
+- Tarea 2: Como coordinador de veeduría quiero recibir una alerta automática en Telegram cuando se registre una denuncia para revisarla y validarla rápidamente.
+
+2. ¿Por qué son las más importantes?
+Estas tareas representan el "Camino Feliz" fundamental y el núcleo de valor de la aplicación (Mínimo Producto Viable). Sin la capacidad de capturar y registrar el reporte del ciudadano, el sistema no tiene datos ni razón de existir. Por otro lado, la alerta en Telegram asegura que los veedores y coordinadores se enteren al instante para iniciar la auditoría o validación del caso, cerrando el canal de comunicación crítico inmediato. Las demás funciones de filtrado avanzado, estados y reportes históricos dependen de que este flujo base funcione correctamente.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+Para mí, que una tarea esté "terminada" (Definition of Done) significa que ha superado todos los controles de calidad, técnicos y funcionales necesarios para que pueda ser utilizada por el usuario final de forma segura, estable y sin generar deuda técnica.
+
+Definición de Terminado (Criterios):
+- Criterio 1: Funciona correctamente (Cumple con los criterios de aceptación de la historia de usuario en el entorno local y de desarrollo).
+- Criterio 2: Fue probada con éxito (Se realizaron pruebas manuales o unitarias y está libre de errores/bugs críticos).
+- Criterio 3: Quedó registrada en Git (El código limpio se subió al repositorio, pasó la revisión de pares o pipeline de CI/CD y quedó integrado en la rama principal).
+- Criterio 4: Interfaz de usuario validada (La vista cumple con los estándares de diseño minimalista y accesibilidad definidos).

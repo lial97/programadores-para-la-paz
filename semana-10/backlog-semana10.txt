@@ -1,0 +1,13 @@
+Como ciudadano quiero registrar una denuncia ciudadana con fotos y ubicación para dejar evidencia clara del caso de corrupción o mal estado de la infraestructura.
+Como coordinador de veeduría quiero recibir una alerta automática en Telegram cuando se registre una denuncia para revisarla y validarla rápidamente.
+Como miembro de la comisión de control quiero consultar y filtrar los reportes ciudadanos por estado y comuna para realizar el seguimiento de las investigaciones de manera organizada.
+Como ciudadano afectado quiero ver el estado en tiempo real de mi denuncia registrada para saber si las autoridades o los veedores ya la están gestionando.
+Como administrador del sistema quiero generar un reporte en PDF con las estadísticas mensuales de incidencias para presentarlo en las audiencias públicas de rendición de cuentas.
+
+Orden de prioridad (De mayor a menor):
+
+1. Como ciudadano quiero registrar una denuncia ciudadana con fotos y ubicación para dejar evidencia clara del caso de corrupción o mal estado de la infraestructura. (Prioridad Alta - Bloque central del sistema)
+2. Como coordinador de veeduría quiero recibir una alerta automática en Telegram cuando se registre una denuncia para revisarla y validarla rápidamente. (Prioridad Alta - Permite la reacción y moderación oportuna)
+3. Como miembro de la comisión de control quiero consultar y filtrar los reportes ciudadanos por estado y comuna para realizar el seguimiento de las investigaciones de manera organizada. (Prioridad Media - Herramienta de gestión interna)
+4. Como ciudadano afectado quiero ver el estado en tiempo real de mi denuncia registrada para saber si las autoridades o los veedores ya la están gestionando. (Prioridad Media - Transparencia de cara al usuario)
+5. Como administrador del sistema quiero generar un reporte en PDF con las estadísticas mensuales de incidencias para presentarlo en las audiencias públicas de rendición de cuentas. (Prioridad Baja - Reportes e histórico a largo plazo)

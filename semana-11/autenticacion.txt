@@ -1,0 +1,5 @@
+El login en una aplicación web actúa como la compuerta de seguridad principal que identifica y valida la identidad de un usuario mediante sus credenciales antes de otorgarle acceso al ecosistema de 
+gestión. Es fundamental que ciertas rutas del backend y de la interfaz gráfica permanezcan estrictamente protegidas bajo capas de autenticación, ya que contienen registros de auditoría interna, 
+paneles de actualización y flujos operacionales lógicos que no deben estar disponibles para terceros no autorizados o atacantes. En una plataforma comunitaria, salvaguardar estas rutas evita la 
+manipulación malintencionada de la información pública. Por ende, bajo ninguna circunstancia se debe exponer públicamente o incluir en las interfaces de libre acceso datos críticos como contraseñas en 
+texto plano, números de documentos de identidad, números telefónicos personales, direcciones residenciales exactas, tokens JWT o claves privadas de API (.env), blindando la privacidad del ciudadano.

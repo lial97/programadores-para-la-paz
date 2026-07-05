@@ -1,0 +1,5 @@
+Entidad Incidencia: Almacena de forma pública id, titulo, descripcion, comuna_zona, estado ('Pendiente', 'En Revisión', 'Finalizado') y fecha_creacion. Esto organiza las demandas sin rastrear la 
+ubicación exacta del hogar del ciudadano.
+
+Entidad Auditoria_Interna: Garantiza la trazabilidad del equipo con los campos id, incidencia_id (FK), usuario_coordinador, accion_realizada, notas_internas y fecha_modificacion. Funciona como una 
+bitácora inmutable de control.

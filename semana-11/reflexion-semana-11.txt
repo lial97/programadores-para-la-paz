@@ -1,0 +1,6 @@
+Una plataforma tecnológica orientada a la participación ciudadana requiere de manera obligatoria una base de datos, autenticación y protección estricta de la información para garantizar su 
+legitimidad, transparencia y viabilidad en el tiempo. La base de datos actúa como el soporte estructural e histórico que evita que las denuncias se pierdan en el desorden, sirviendo como una bitácora 
+científica auditable para la comunidad. Por su parte, la autenticación de usuarios establece fronteras claras de responsabilidad, asegurando que solo los miembros validados de la comisión de control 
+social realicen modificaciones en los estados de los casos. Finalmente, la protección rigurosa de los datos sensibles es el pilar ético que resguarda la privacidad del ciudadano; si el anonimato de un 
+denunciante se ve vulnerado debido a un diseño deficiente, se destruye la confianza pública, anulando la participación colectiva por miedo a represalias. Esta sinergia tecnológica convierte el 
+software en una herramienta segura de transformación social democrática.

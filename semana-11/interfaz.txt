@@ -1,0 +1,7 @@
+Formulario: Campos sanitizados para titulo, descripcion y selector de comuna.
+
+Vista de Causas: Un tablero o Dashboard cronológico que lista las tarjetas de denuncias aprobadas públicamente junto a su estado actual.
+
+Botón de Apoyo: Un componente interactivo minimalista integrado en cada tarjeta.
+
+Contador: Indicador dinámico en tiempo real que refleja el peso social de la causa sin filtrar nombres ni perfiles privados.

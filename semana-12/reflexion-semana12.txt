@@ -1,0 +1,13 @@
+Durante este curso aprendí que la tecnología puede ayudar a 
+fortalecer la participación ciudadana y la organización comunitaria. 
+Comprendí la importancia de crear sistemas que permitan registrar 
+información de forma organizada y segura. También aprendí cómo se 
+relacionan el backend, las bases de datos y la automatización para 
+facilitar procesos. Entendí que los documentos PDF pueden generarse 
+automáticamente para presentar información de manera formal. Además, 
+conocí herramientas como Git y GitHub para controlar versiones y 
+compartir proyectos. Aprendí la importancia de proteger los datos 
+personales de los usuarios. Considero que estos conocimientos serán 
+útiles para desarrollar aplicaciones que beneficien a la comunidad. 
+Este curso me permitió comprender mejor cómo la tecnología puede 
+resolver necesidades reales de manera responsable y eficiente.
